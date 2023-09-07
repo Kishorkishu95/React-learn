@@ -1,7 +1,7 @@
 
 import './ExpensesFilter.css';
 
-const ExpenseFilter=(props)=>{
+const ExpensesFilter=(props)=>{
 
     const dropdownChangeHandler=(event)=>{
 
@@ -22,4 +22,4 @@ const ExpenseFilter=(props)=>{
     );
 
 }
-export default ExpenseFilter;
+export default ExpensesFilter;
